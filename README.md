@@ -4,7 +4,7 @@ A single Jupyter Notebook that builds and evaluates models to predict heart fail
 
 ## Files
 
-- **Notebook:** [heartfailurepredictionproject.ipynb](HeartFailurePredictionProject.ipynb) — main analysis and model pipeline.
+- **Notebook:** [HeartFailurePredictionProject.ipynb](HeartFailurePredictionProject.ipynb) — main analysis and model pipeline.
 
 ## Dataset
 
